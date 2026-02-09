@@ -1,0 +1,15 @@
+Risk Table:
+
+Device / Asset	Risk	Likelihood	Impact	Risk Level
+|                 |
+Laptop	Phishing attack (email, browser)	High	High	Critical
+
+Smartphone	Phishing / malware apps	High	Medium	High
+
+Smart TV	Malware / unauthorized access	Medium	Medium	
+
+IoT Devices (Alexa, smart plugs, camera)	Device compromise / spying	Medium	High	High
+
+Home Router	Weak password / firmware vulnerability	Medium	High	High
+
+Internet Connection	DDoS or ISP outage	Low	Medium	Low
