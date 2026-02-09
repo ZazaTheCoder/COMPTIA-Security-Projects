@@ -1,20 +1,33 @@
-# Home Network Threat Modeling Lab
+# CompTIA Security+ (SY0-701) Labs
 
-## Objective
-Map your home network and identify assets, threats, vulnerabilities, and risks.
+This repository contains hands-on cybersecurity labs aligned with the CompTIA Security+ SY0-701 exam objectives. These labs provide practical experience in identifying threats, analyzing malware, scanning for vulnerabilities, designing secure networks, and documenting policies and incident response.  
 
-## Tools
-- draw.io
-- Markdown
+## Domains Covered
+- General Security Concepts
+- Threats, Vulnerabilities & Mitigations
+- Security Architecture
+- Security Operations
+- Governance, Risk & Compliance
 
-## Steps
-1. Map devices and connections
-2. Identify assets and value
-3. List threats and vulnerabilities
-4. Create risk register
-5. Propose mitigations
+## Tools Used
+- VirtualBox / VMware
+- Kali Linux
+- Windows 10/11 VM
+- VirusTotal
+- Nessus Essentials / OpenVAS
+- draw.io for diagrams
 
-## Concepts
-- CIA Triad
-- Risk Management
-- Threat Modeling
+## Purpose
+These labs demonstrate practical Security+ skills, including:
+- Mapping and securing home networks
+- Malware analysis and mitigation
+- Vulnerability scanning and reporting
+- Secure network architecture design
+- Incident response simulations
+- Security policy creation and risk management
+
+## Lab Structure
+Each lab folder contains:
+- `README.md` explaining the lab objective, tools, and steps
+- Documentation files like risk registers, scan reports, or malware comparisons
+- Diagrams exported from draw.io where needed
